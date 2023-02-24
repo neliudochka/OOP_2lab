@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2lab</string>
+    <string name="file">Файл</string>
+    <string name="objects">Об\'єкти</string>
+    <string name="info">Довідка</string>
+    <string name="point">Крапка</string>
+    <string name="line">Лінія</string>
+    <string name="rect">Прямокутник</string>
+    <string name="ellipse">Еліпс</string>
+    <string name="canvasContentDescription">Mini Paint is a simple line drawing app.
+   Drag your fingers to draw. Rotate the phone to clear.</string>
+</resources>
